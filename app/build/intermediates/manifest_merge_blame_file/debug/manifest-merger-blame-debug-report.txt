@@ -6,9 +6,9 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="15"
-8-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml
+8-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml
+9-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml
 10
 11    <!--
 12         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
@@ -16,8 +16,8 @@
 14         location permissions for the 'MyLocation' functionality.
 15    -->
 16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:10:5-79
-16-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:10:22-76
+16-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:10:5-79
+16-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:10:22-76
 17
 18    <!-- Include required permissions for Google Maps API to run. -->
 19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -35,23 +35,23 @@
 24-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paarth Arkadi\.gradle\caches\transforms-2\files-2.1\4882c64b33418d4d6e2bb0cb7ae334e3\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
 25
 26    <application
-26-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:12:5-44:19
+26-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:12:5-44:19
 27        android:allowBackup="true"
-27-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:13:9-35
+27-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:13:9-35
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 28-->[androidx.core:core:1.0.1] C:\Users\Paarth Arkadi\.gradle\caches\transforms-2\files-2.1\c0a39027978b83a483a047f5c31d0c4e\core-1.0.1\AndroidManifest.xml:22:18-86
 29        android:debuggable="true"
 30        android:icon="@mipmap/ic_launcher"
-30-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:14:9-43
+30-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:14:9-43
 31        android:label="@string/app_name"
-31-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:15:9-41
+31-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:15:9-41
 32        android:roundIcon="@mipmap/ic_launcher_round"
-32-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:16:9-54
+32-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:16:9-54
 33        android:supportsRtl="true"
-33-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:17:9-35
+33-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:17:9-35
 34        android:testOnly="true"
 35        android:theme="@style/AppTheme" >
-35-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:18:9-40
+35-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:18:9-40
 36
 37        <!--
 38             The API key for Google Maps-based APIs is defined as a string resource.
@@ -62,36 +62,36 @@
 43             You can define the keys for the debug and release targets in src/debug/ and src/release/.
 44        -->
 45        <meta-data
-45-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:28:9-30:55
+45-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:28:9-30:55
 46            android:name="com.google.android.geo.API_KEY"
-46-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:29:13-58
+46-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:29:13-58
 47            android:value="@string/google_maps_key" />
-47-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:30:13-52
+47-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:30:13-52
 48
 49        <activity
-49-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:32:9-34:68
+49-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:32:9-34:68
 50            android:name="com.example.myapp.MapsActivity"
-50-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:33:13-41
+50-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:33:13-41
 51            android:label="@string/title_activity_maps" />
-51-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:34:13-56
+51-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:34:13-56
 52        <activity android:name="com.example.myapp.signup" />
-52-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:35:9-44
-52-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:35:19-41
+52-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:35:9-44
+52-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:35:19-41
 53        <activity android:name="com.example.myapp.login" />
-53-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:36:9-43
-53-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:36:19-40
+53-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:36:9-43
+53-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:36:19-40
 54        <activity android:name="com.example.myapp.MainActivity" >
-54-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:37:9-43:20
-54-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:37:19-47
+54-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:37:9-43:20
+54-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:37:19-47
 55            <intent-filter>
-55-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:38:13-42:29
+55-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:38:13-42:29
 56                <action android:name="android.intent.action.MAIN" />
-56-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:39:17-69
-56-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:39:25-66
+56-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:39:17-69
+56-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:39:25-66
 57
 58                <category android:name="android.intent.category.LAUNCHER" />
-58-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:41:17-77
-58-->C:\Users\Paarth Arkadi\Desktop\MYAPP\app\src\main\AndroidManifest.xml:41:27-74
+58-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:41:17-77
+58-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\src\main\AndroidManifest.xml:41:27-74
 59            </intent-filter>
 60        </activity>
 61        <!-- Needs to be explicitly declared on P+ -->
