@@ -3,31 +3,31 @@
 3    package="com.example.myapp.test" >
 4
 5    <uses-sdk
-5-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5913761902624100902.xml:5:5-74
+5-->C:\Users\Admin\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7071164428799247557.xml:5:5-74
 6        android:minSdkVersion="15"
-6-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5913761902624100902.xml:5:15-41
+6-->C:\Users\Admin\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7071164428799247557.xml:5:15-41
 7        android:targetSdkVersion="29" />
-7-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5913761902624100902.xml:5:42-71
+7-->C:\Users\Admin\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7071164428799247557.xml:5:42-71
 8
 9    <instrumentation
-9-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5913761902624100902.xml:11:5-15:67
+9-->C:\Users\Admin\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7071164428799247557.xml:11:5-15:67
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5913761902624100902.xml:11:22-76
+10-->C:\Users\Admin\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7071164428799247557.xml:11:22-76
 11        android:functionalTest="false"
-11-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5913761902624100902.xml:14:22-52
+11-->C:\Users\Admin\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7071164428799247557.xml:14:22-52
 12        android:handleProfiling="false"
-12-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5913761902624100902.xml:13:22-53
+12-->C:\Users\Admin\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7071164428799247557.xml:13:22-53
 13        android:label="Tests for com.example.myapp"
-13-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5913761902624100902.xml:15:22-65
+13-->C:\Users\Admin\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7071164428799247557.xml:15:22-65
 14        android:targetPackage="com.example.myapp" />
-14-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5913761902624100902.xml:12:22-63
+14-->C:\Users\Admin\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7071164428799247557.xml:12:22-63
 15
 16    <application android:debuggable="true" >
-16-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5913761902624100902.xml:7:5-9:19
-16-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5913761902624100902.xml:7:18-43
+16-->C:\Users\Admin\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7071164428799247557.xml:7:5-9:19
+16-->C:\Users\Admin\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7071164428799247557.xml:7:18-43
 17        <uses-library android:name="android.test.runner" />
-17-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5913761902624100902.xml:8:9-60
-17-->C:\Users\Paarth Arkadi\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5913761902624100902.xml:8:23-57
+17-->C:\Users\Admin\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7071164428799247557.xml:8:9-60
+17-->C:\Users\Admin\Desktop\socio_app\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7071164428799247557.xml:8:23-57
 18    </application>
 19
 20</manifest>
