@@ -39,7 +39,11 @@
 27        android:allowBackup="true"
 27-->C:\Users\Admin\Desktop\socio_app\app\src\main\AndroidManifest.xml:13:9-35
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+<<<<<<< HEAD
 28-->[androidx.core:core:1.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\c0a39027978b83a483a047f5c31d0c4e\core-1.0.1\AndroidManifest.xml:22:18-86
+=======
+28-->[androidx.core:core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:24:18-86
+>>>>>>> registration_page_ui
 29        android:debuggable="true"
 30        android:icon="@mipmap/ic_launcher"
 30-->C:\Users\Admin\Desktop\socio_app\app\src\main\AndroidManifest.xml:14:9-43
