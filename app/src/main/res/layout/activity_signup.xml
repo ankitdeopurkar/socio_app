@@ -12,8 +12,8 @@
 
     <ImageView
         android:id="@+id/logo"
-        android:layout_width="match_parent"
-        android:layout_height="418dp"
+        android:layout_width="481dp"
+        android:layout_height="310dp"
         app:srcCompat="@drawable/socio" />
 
     <EditText
@@ -28,7 +28,7 @@
         android:inputType="textPersonName" />
 
     <EditText
-        android:id="@+id/editText2"
+        android:id="@+id/TVpassword"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_marginBottom="30dp"
@@ -36,6 +36,22 @@
         android:ems="10"
         android:hint="Surname"
         android:inputType="textPersonName" />
+    <Button
+        android:id="@+id/BSIGNUP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:onClick="onSignUp"
+        android:text="Login"
+        android:background="#191A67"
+        android:padding="20dp"
+        android:textColor="#FFFF"
+        android:textFontWeight="@android:integer/status_bar_notification_info_maxnum"
+        />
 
     <Button
         android:id="@+id/BSIGNUP"
